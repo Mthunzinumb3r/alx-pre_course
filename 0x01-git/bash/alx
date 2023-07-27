@@ -1,15 +1,2 @@
 #!/bin/bash
-echo "ALX"
-
-c
-[A[A[A[A[A[A[A[A[Aroot@2ee597a8289f:/alx-pre_course/0x01-git/bash# cat > school
-#!/bin/bash
-echo "School"
-root@2ee597a8289f:/alx-pre_course/0x01-git/bash# cd ..
-clear
-
-
-
-
-
-[A
+echo "ALX School"
